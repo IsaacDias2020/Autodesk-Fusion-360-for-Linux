@@ -8,19 +8,19 @@
 ![GitHub forks](https://img.shields.io/github/forks/cryinkfly/Fusion-360---Linux-Wine-Version-?style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/cryinkfly/Fusion-360---Linux-Wine-Version-?style=for-the-badge)
 
-[Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/features) is a cloud-based 3D modeling, CAD, CAM, and PCB software platform for product design and manufacturing, what you can use on Windows and macOS.
+[Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/features) é uma plataforma de software de modelagem 3D, CAD, CAM e PCB baseada em nuvem para design e fabricação de produtos, que você pode usar no Windows e no macOS.
 
-But the problem is that there are also people like me who don't want to use either of these two operating systems on there systems. Then these users have installed a Linux distribution such as openSUSE Leap, Ubuntu or Fedora.
+Mas o problema é que também existem pessoas como eu que não querem usar nenhum desses dois sistemas operacionais em seus sistemas. Então, esses usuários instalam uma distribuição Linux, como openSUSE Leap, Ubuntu ou Fedora.
 
-And so I got the idea to start this project here to find a way to solve this problem. 
+E então tive a ideia de começar este projeto aqui para encontrar uma maneira de resolver este problema. 
 
-I started looking at different tools and my choice was Wine! 
+Comecei a procurar diferentes ferramentas e minha escolha foi o Wine! 
 
-With this nice tool we don't need longer two operating systems for Fusion 360, when we will create a fantastic project in the future or if you want to work on a project with other people.
+Com esta ótima ferramenta não precisamos de mais dois sistemas operacionais para o Fusion 360, quando vamos criar um projeto fantástico no futuro ou se você quiser trabalhar em um projeto com outras pessoas.
 
-Is that a great idea for the future?
+É uma ótima ideia para o futuro?
 
-Personally, I think this idea is good and for this reason I will do my best to give you the opportunity to use it on Linux as well!
+Pessoalmente, acho essa ideia boa e por isso farei o possível para dar a você a oportunidade de usá-la também no Linux!
 
 ---
 
