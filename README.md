@@ -24,7 +24,8 @@ Pessoalmente, acho essa ideia boa e por isso farei o possível para dar a você 
 
 ---
 
-You will get more information about this program, then you can visit the original website of Autodesk Fusion 360 with this link: https://www.autodesk.com/products/fusion-360/features
+Você obterá mais informações sobre este programa e poderá visitar o site original do Autodesk Fusion 360 com este link
+k: https://www.autodesk.com/products/fusion-360/features
 
 ---
 
